@@ -15,7 +15,7 @@ Media Queries: Media queries são utilizadas para garantir que o projeto seja re
 
 ### Imagem 
 <div align="center">
-<img src="https://github.com/leandrodemello/SpaceCream/assets/105759339/5584b05a-3c54-4a02-840d-9cfc8a9e8d3c" width="900px" />
+<img src="https://github.com/leandrodemello/SpaceCream/assets/105759339/370c062c-9aa0-46d0-b799-60328405be85" width="900px" />
 </div>
 
 ### Link do projeto
