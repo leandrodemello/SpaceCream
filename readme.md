@@ -13,10 +13,13 @@ Animações e Transições: São aplicadas animações e transições para melho
 
 Media Queries: Media queries são utilizadas para garantir que o projeto seja responsivo em diferentes dispositivos e tamanhos de tela. A interface do Space Cream se adapta automaticamente para fornecer a melhor experiência possível, independentemente do dispositivo utilizado pelo usuário.
 
-## Imagem 
+### Imagem 
 <div align="center">
 <img src="https://github.com/leandrodemello/SpaceCream/assets/105759339/5584b05a-3c54-4a02-840d-9cfc8a9e8d3c" width="900px" />
 </div>
+
+### Link do projeto
+https://codepen.io/leandrodemello/pen/eYVbpPK
 
 ### Requisitos de Instalação
 Para executar o projeto Space Cream, você precisará seguir estas etapas:
