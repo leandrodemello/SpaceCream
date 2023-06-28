@@ -49,9 +49,11 @@ Abra um pull request no repositório original.
 Este README é apenas uma visão geral do projeto Space Cream. Para obter mais detalhes sobre a implementação e o código-fonte, consulte a documentação fornecida no próprio projeto. Divirta-se explorando o espaço com o Space Cream!
 
 ### Contato
-Se você tiver alguma dúvida, sugestão ou feedback, entre em contato. 
+Se você quiser entrar em contato comigo para oportunidades de trabalho, colaborações ou apenas para dizer olá, sinta-se à vontade para me contatar por meio dos seguintes canais:
 
 Email: leandro.devmcz@gmail.com </br>
 Portfólio: https://leandromello.dev/ </br>
 GitHub: https://github.com/leandrodemello </br>
 Linkedin: https://www.linkedin.com/in/leandro-mello-47a24823b/
+
+Obrigado pela visita e aproveite a exploração dos projetos!
