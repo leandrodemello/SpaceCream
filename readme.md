@@ -1,4 +1,4 @@
-# Space Cream
+# Space Cream 
 Space Cream é um projeto que utiliza conceitos avançados de desenvolvimento web, como Grid, Animações e Transições, e Media Queries, para criar uma experiência interativa e responsiva.
 
 ### Visão Geral
