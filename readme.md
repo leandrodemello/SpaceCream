@@ -46,7 +46,12 @@ Faça push para o branch (git push origin minha-feature).
 
 Abra um pull request no repositório original.
 
-### Contato
-Se você tiver alguma dúvida, sugestão ou feedback, entre em contato através do email leandro.devmcz@gmail.com
-
 Este README é apenas uma visão geral do projeto Space Cream. Para obter mais detalhes sobre a implementação e o código-fonte, consulte a documentação fornecida no próprio projeto. Divirta-se explorando o espaço com o Space Cream!
+
+### Contato
+Se você tiver alguma dúvida, sugestão ou feedback, entre em contato. 
+
+Email: leandro.devmcz@gmail.com
+Portfólio: https://leandromello.dev/
+GitHub: https://github.com/leandrodemello
+Linkedin: https://www.linkedin.com/in/leandro-mello-47a24823b/
