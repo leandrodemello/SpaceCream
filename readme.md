@@ -51,7 +51,7 @@ Este README é apenas uma visão geral do projeto Space Cream. Para obter mais d
 ### Contato
 Se você tiver alguma dúvida, sugestão ou feedback, entre em contato. 
 
-Email: leandro.devmcz@gmail.com
-Portfólio: https://leandromello.dev/
-GitHub: https://github.com/leandrodemello
+Email: leandro.devmcz@gmail.com </br>
+Portfólio: https://leandromello.dev/ </br>
+GitHub: https://github.com/leandrodemello </br>
 Linkedin: https://www.linkedin.com/in/leandro-mello-47a24823b/
